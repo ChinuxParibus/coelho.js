@@ -25,9 +25,9 @@ $(function () {
 		});
 	}
 
-	var store = localStore.get("coelho");
 
 	$("button").onClick(function () {
+		var store = localStore.get("coelho");
 		if (store) {
 			var template = store[Math.floor(Math.random() * store.length)];
 		} else {
