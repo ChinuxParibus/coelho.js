@@ -6,7 +6,7 @@ $(function () {
 		secret: '3730ea30a7c49780b31bcb1d1df2fcbb5f9985df8111dec1'
 	},
 
-	baseUrl = 'https://ef95ec00-840d-11e6-bf6f-6d035d3d81fa.app.jexia.com',
+	baseUrl = 'http://ef95ec00-840d-11e6-bf6f-6d035d3d81fa.app.jexia.com',
 
 	settings = {};
 
